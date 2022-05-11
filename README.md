@@ -6,3 +6,6 @@ play for some fun.
 
 
 https://play.unity.com/mg/other/fireworks
+
+Object pooling.
+https://www.youtube.com/watch?v=tdSmKaJvCoA
